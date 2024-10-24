@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1677-matrix-diagonal-sum) |
 ## Matrix
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0389-find-the-difference) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
