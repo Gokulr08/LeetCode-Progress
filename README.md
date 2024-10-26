@@ -48,13 +48,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
