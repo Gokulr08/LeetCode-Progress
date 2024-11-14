@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0392-is-subsequence) |
+| [1797-goal-parser-interpretation](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1797-goal-parser-interpretation) |
 ## Sliding Window
 |  |
 | ------- |
