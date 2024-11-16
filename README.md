@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0392-is-subsequence) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0657-robot-return-to-origin) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
