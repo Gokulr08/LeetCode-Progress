@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0566-reshape-the-matrix) |
 | [0965-unique-email-addresses](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0965-unique-email-addresses) |
+| [1019-squares-of-a-sorted-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1031-add-to-array-form-of-integer) |
 | [1603-running-sum-of-1d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1677-matrix-diagonal-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0389-find-the-difference) |
+| [1019-squares-of-a-sorted-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
