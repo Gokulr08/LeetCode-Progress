@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0965-unique-email-addresses) |
 | [1797-goal-parser-interpretation](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1894-merge-strings-alternately) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Sliding Window
 |  |
 | ------- |
