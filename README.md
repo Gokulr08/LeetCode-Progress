@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0389-find-the-difference) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1031-add-to-array-form-of-integer](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1031-add-to-array-form-of-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1448-maximum-69-number) |
 ## Greedy
 |  |
