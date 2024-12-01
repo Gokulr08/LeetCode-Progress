@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1031-add-to-array-form-of-integer) |
 | [1603-running-sum-of-1d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1677-matrix-diagonal-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0566-reshape-the-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1677-matrix-diagonal-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0657-robot-return-to-origin) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Stack
 |  |
 | ------- |
