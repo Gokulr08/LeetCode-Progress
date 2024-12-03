@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0389-find-the-difference) |
 | [0965-unique-email-addresses](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0965-unique-email-addresses) |
 ## Sorting
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0657-robot-return-to-origin) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
