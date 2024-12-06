@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0342-power-of-four) |
 | [1031-add-to-array-form-of-integer](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1031-add-to-array-form-of-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -118,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
