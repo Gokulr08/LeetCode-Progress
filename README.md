@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0389-find-the-difference) |
 | [0965-unique-email-addresses](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0965-unique-email-addresses) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1894-merge-strings-alternately) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0383-ransom-note) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Recursion
 |  |
 | ------- |
