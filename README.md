@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1031-add-to-array-form-of-integer) |
 | [1603-running-sum-of-1d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1677-matrix-diagonal-sum) |
+| [1755-defuse-the-bomb](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1755-defuse-the-bomb) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
+| [1755-defuse-the-bomb](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1755-defuse-the-bomb) |
 ## Dynamic Programming
 |  |
 | ------- |
