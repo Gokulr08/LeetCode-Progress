@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1031-add-to-array-form-of-integer) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1755-defuse-the-bomb) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1019-squares-of-a-sorted-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Math
 |  |
 | ------- |
