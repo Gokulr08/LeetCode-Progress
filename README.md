@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1031-add-to-array-form-of-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1448-maximum-69-number) |
+| [3567-convert-date-to-binary](https://github.com/Gokulr08/LeetCode-Progress/tree/master/3567-convert-date-to-binary) |
 ## Greedy
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1894-merge-strings-alternately) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3567-convert-date-to-binary](https://github.com/Gokulr08/LeetCode-Progress/tree/master/3567-convert-date-to-binary) |
 ## Sliding Window
 |  |
 | ------- |
