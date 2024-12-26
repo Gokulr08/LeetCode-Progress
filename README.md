@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0342-power-of-four) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0342-power-of-four) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0383-ransom-note) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0657-robot-return-to-origin) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2132-convert-1d-array-into-2d-array) |
