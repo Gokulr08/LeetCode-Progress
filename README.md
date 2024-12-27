@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1894-merge-strings-alternately) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2235-capitalize-the-title](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2235-capitalize-the-title) |
 | [3567-convert-date-to-binary](https://github.com/Gokulr08/LeetCode-Progress/tree/master/3567-convert-date-to-binary) |
 ## Sliding Window
 |  |
