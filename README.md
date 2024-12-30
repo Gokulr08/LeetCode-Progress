@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0595-big-countries) |
+| [1153-product-sales-analysis-i](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [2024-calculate-special-bonus](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2024-calculate-special-bonus) |
 ## Binary Search
