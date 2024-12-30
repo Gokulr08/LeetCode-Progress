@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1755-defuse-the-bomb) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Matrix
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1031-add-to-array-form-of-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1448-maximum-69-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3567-convert-date-to-binary](https://github.com/Gokulr08/LeetCode-Progress/tree/master/3567-convert-date-to-binary) |
 ## Greedy
 |  |
