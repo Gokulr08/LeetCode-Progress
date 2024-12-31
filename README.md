@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0303-range-sum-query-immutable) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0342-power-of-four) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0349-intersection-of-two-arrays) |
