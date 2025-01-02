@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0566-reshape-the-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
