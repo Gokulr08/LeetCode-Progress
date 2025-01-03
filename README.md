@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1755-defuse-the-bomb) |
+| [1848-sum-of-unique-elements](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0965-unique-email-addresses](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0965-unique-email-addresses) |
+| [1848-sum-of-unique-elements](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Gokulr08/LeetCode-Progress/tree/master/0383-ransom-note) |
+| [1848-sum-of-unique-elements](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Recursion
 |  |
