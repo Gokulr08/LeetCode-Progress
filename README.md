@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1894-merge-strings-alternately) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1954-replace-all-digits-with-characters](https://github.com/Gokulr08/LeetCode-Progress/tree/master/1954-replace-all-digits-with-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/Gokulr08/LeetCode-Progress/tree/master/2235-capitalize-the-title) |
